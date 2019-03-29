@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello file double b
 
+=======
+Hello file New-b
+>>>>>>> feature2
